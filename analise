@@ -1,0 +1,21 @@
+  Login / Cadastro. Simples Feito. / Implementar
+
+  7 opções no menu:
+
+  Inicio: pagina com as musicas mais curtidas ouvidas anteriormente e relacionadas (4 musicas por linha(mais ouvidas 4/8, relacionadas 4) 12 no total)
+12 musicas
+
+  Buscar / Explorar: Menu para buscar musicas e já aparecer opções antes de digitar 
+
+  Favoritos: Musicas favoritas e Playlist favorias (4, 1 Minhas musicas, Minhas Playlist, Ouvir mais tarde)
+
+  Generos: Mostrar todos generos disponiveis (4 de 12 ou 16)
+  Rock, Pop, Hip-hop, Rap, Eletrônica, Reggae, Country, Jazz, Blues, Clássica, Trap, Samba, Funk, Metal, Folk e Indie.
+
+  Descoberta da Semana: Musicas novas e boas (organizar 4 de 12 musicas aparecer genero na tela de cada musica)
+
+  Podcast: Generos/Assunto (4/8 principais podcast, 4/8 generos)
+  Flow, Podpah, ILTDA, PrimoCast
+  Mano a Mano, Joe Rogan, Nerd Cast, Pod Delas
+  Economia/Finanças, Diversão, Empreendedorismo, Entrevista
+  
