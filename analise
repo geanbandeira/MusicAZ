@@ -1,4 +1,40 @@
-  Login / Cadastro. Simples Feito. / Implementar
+TRABALHO SEMESTRAL DE DW2A4
+
+- O trabalho semestral para a disciplina de DW2A4 consiste no desenvolvimento de um website.
+- A escolha do tema e do conteúdo desta atividade será livre.
+Nota: após definido o tema e aspectos principais do trabalho pelo grupo, estas informações deverão ser comunicadas em sala de aula, antes do desenvolvimento.
+
+CRITÉRIOS PARA AVALIAÇÃO:
+1. Funcionalidade, contemplando os tópicos desenvolvidos em aulas;
+2. Estética - Diagramação, Equilíbrio, Harmonia;
+3. Propósito / Finalidade;
+4. Apresentação do projeto em laboratório;
+5. Não será estipulado um número mínino de páginas do site, porém será considerada a quantidade de trabalho envolvida;
+6. Código comentado apontando a exploração dos conceitos;
+7. É requerida documentação, correspondente ao projeto:
+   a. requisitos do projeto;
+   b. diagramas UML;
+   c. modelo entidade-relacionamento;
+   d. mapa do site;
+   e. código do projeto e outros que se considerar necessário.
+Nota: Por se tratar de atividade cuja proposta da disciplina tem o teor mais acentuado na programação, e não no desenvolvimento de projeto de sistemas, será requerida a parte de documentação sem muitos detalhamento, no entanto, a documentação deverá caracterizar o código elaborado.
+
+CONCEITOS ABORDADOS EM AULA A SEREM UTILIZADOS NO PROJETO:
+- Controle e Manipulação de Escopo;
+- Objetos e Prototypes;
+- Orientação a Objetos: Abstração, Encapsulamento, Herança e Polimorfismo;
+- Composição e Herança por Prototipação;
+- Módulos;
+- Callbacks e Promises;
+- AJAX e Fetch;
+- SPA: Single Page Applications.
+
+ENTREGA:
+- O material entregue deverá ser identificado com os dados da disciplina, dos componentes do grupo e o nome do projeto;
+- A documentação deverá seguir o padrão ABNT em formato PDF(Portable Document Format) em formato digital;
+- Data: 07/11/2023;
+
+Login / Cadastro. Simples Feito. / Implementar
 
   7 opções no menu:
 
