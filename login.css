@@ -1,0 +1,65 @@
+.logor{
+    height: 120px;
+}
+
+p{
+    color: #fff;
+}
+h1{
+    color: #fff;
+}
+ 
+/* Estilo para botões de login e cadastro */
+#loginForm,
+#loginEmail,
+#signupForm,
+#loginPassword {
+    color: #000; /* Cor do texto branca */
+    padding: 10px 20px; /* Espaçamento interno */
+    border: none; /* Sem borda */
+    border-radius: 1px; /* Cantos arredondados */
+    font-size: 16px; /* Tamanho da fonte */
+    cursor: pointer; /* Ícone de cursor de mão */
+    transition: background-color 0.3s ease; /* Efeito de transição suave */
+    display:block;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row; /* row é padrão */
+    align-items: center; /* Centralizar verticalmente */
+     /* Altura igual à altura da janela do navegador */
+}
+
+#loginForm{
+    display: flex;
+    justify-content: center; /* Centralizar horizontalmente */
+    align-items: center; /* Centralizar verticalmente */
+}
+#botaoLogin{
+        background-color: green; /* Cor de fundo verde */
+        color: #fff; /* Cor do texto branca */
+        padding: 12px 24px; /* Espaçamento interno maior */
+        border: none; /* Sem borda */
+        border-radius: 5px; /* Cantos arredondados */
+        font-size: 18px; /* Tamanho da fonte maior */
+        cursor: pointer; /* Ícone de cursor de mão */
+        transition: background-color 0.3s ease; /* Efeito de transição suave */
+        text-align: center;
+    }
+    
+    /* Estilo de hover para o botão de confirmação */
+    #botaoLogin:hover {
+        background-color: green; /* Cor de fundo verde mais escura ao passar o mouse */
+    }
+
+    .bodylogin{
+        text-align: center;
+    }
+
+body {
+    background: #000; /* Cor de fundo branca */
+    color: #333; /* Cor do texto escura */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
