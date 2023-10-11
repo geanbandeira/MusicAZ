@@ -40,22 +40,39 @@ Login / Cadastro. Simples Feito. / Implementar
 
   7 opções no menu:
 
-  Inicio: pagina com as musicas mais curtidas ouvidas anteriormente e relacionadas (4 musicas por linha(mais ouvidas 4/8, relacionadas 4) 12 no total)
+  trab.js  Página inicial
+
+  Inicio.js
+  inicio: pagina com as musicas mais curtidas ouvidas anteriormente e relacionadas (4 musicas por linha(mais ouvidas 4/8, relacionadas 4) 12 no total)
 12 musicas
 
+  explorar.js
   Buscar / Explorar: Menu para buscar musicas e já aparecer opções antes de digitar 
 
+  favoritos.js
   Favoritos: Musicas favoritas e Playlist favorias (4, 1 Minhas musicas, Minhas Playlist, Ouvir mais tarde)
 
+  generos.js
   Generos: Mostrar todos generos disponiveis (4 de 12 ou 16)
-  Rock, Pop, Hip-hop, Rap, Eletrônica, Reggae, Country, Jazz, Blues, Clássica, Trap, Samba, Funk, Metal, Folk e Indie.
+  Rock ok, Pop ok, Hip-hop ok, Rap ok, Eletrônica ok, Reggae, Country, Jazz, Blues, Clássica, Trap, Samba, Funk, Metal, Folk e Indie.
+  
+  Playlist.js
+  Playslist
+  
 
+
+  descoberta.js
   Descoberta da Semana: Musicas novas e boas (organizar 4 de 12 musicas aparecer genero na tela de cada musica)
 
-  Podcast: Generos/Assunto (4/8 principais podcast, 4/8 generos)
+  podcast.js
+  Podcast:BAIXAR 24unto (4/8 principais podcast, 4/8 generos)
   Flow, Podpah, ILTDA, PrimoCast
   Mano a Mano, Joe Rogan, Nerd Cast, Pod Delas
   Economia/Finanças, Diversão, Empreendedorismo, Entrevista
+  
+  Perfil.js
+  Perfil do usuário
+  
   site https://my.freenom.com/clientarea.php
 
 dia 11 de outubro baixar as 16 musicas uma de cada genero, baixar 2 podcast de cada ao total 
