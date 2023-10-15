@@ -13,20 +13,8 @@
     
             <div class="logor">
                 <img class="logor" src="img/logor.png" alt="Logo do Site">
-            </div>
-            
-                <ul>
-                    <li><a href="trab.html">MusicAZ</a></li>
-                    <li><a href="explorar.html">Explorar</a></li>
-                    <li><a href="favoritos.html">Favoritos</a></li>
-                    <li><a href="generos.html">Generos</a></li>
-                    <li><a href="playlist.html">Playlist</a></li>
-                    <li><a href="descoberta.html">Descobertas</a></li>
-                    <li><a href="podcast.html">Podcast</a></li>
-                    <li><a href="perfil.html">Perfil</a></li>
-                </ul>
-            
-    </div>
+           
+              
     
     <!-- Seções à Direita -->
     <div class="boxes">
