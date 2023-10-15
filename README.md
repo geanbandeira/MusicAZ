@@ -1,1 +1,1 @@
-[Musicaz](trab.html)
+[Musicaz](inicio.html)
