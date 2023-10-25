@@ -31,10 +31,12 @@ nav ul {
 
 nav ul li {
     margin-right: 20px;
+    color: #fff;
 }
 
 nav ul li:last-child {
     margin-right: 0;
+    
 }
 
 nav a {
@@ -56,21 +58,6 @@ nav a {
 }
 
 
-.section1 {
-    font-family: Arial, sans-serif;
-    text-align: left;
-    margin: 0;
-    padding: 0;
-    background-image: url('img/alanwalkerfader.png'); 
-    /* Substitua com o caminho para sua imagem de fundo */
-    background-position:left;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    min-height: 100vh;
-    display: flex;
-    align-items: left;
-    justify-content: left;
-}
 
 .music-player {
     background-color: rgba(255, 255, 255, 0.8); /* Fundo semi-transparente */
@@ -117,7 +104,7 @@ nav a {
 .box {
     width: 320px; /* 33.33% de largura com margem entre as caixas */
     height: 180px;
-    background-color: #3498db;
+    background-color: #0b0111;
     color: #fff;
     text-align: center;
     margin: 20px;
@@ -140,6 +127,7 @@ body {
     height: 100vh;
     background-color: #000;
     color: #fff;
+    
     padding: 20px;
  
 }
@@ -147,6 +135,7 @@ body {
 .menu ul {
     list-style: none;
     padding: 0;
+    
 }
 
 .menu li {
@@ -158,7 +147,7 @@ body {
     padding: 15px;
     transition: background-color 0.3s ease;
     font-size: 24px;
-    text-decoration: none;
+    text-decoration: #4B0082;
     font-weight: bold;
 }
 
@@ -169,4 +158,9 @@ body {
 
 .footer{
     color: #fff;
+}
+
+a{
+    color: #7108bd;
+    text-align: justify;
 }

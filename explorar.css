@@ -1,0 +1,177 @@
+.logor{
+    height: 135px;
+}
+
+p{
+    color: #fff;
+}
+h1{
+    color: #fff;
+}
+ 
+.header {
+    background-color: #4B0082; /* Cor roxa do Deezer */
+    color: #fff; /* Cor do texto branca */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.logo img {
+    height: 40px; /* Altura da logo */
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+    color: #fff;
+}
+
+nav ul li:last-child {
+    margin-right: 0;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.section {
+    padding: 20px;
+}
+
+.footer {
+    background-color: #4B0082; /* Cor roxa do Deezer */
+    color: #fff; /* Cor do texto branca */
+    text-align: center;
+    padding: 10px;
+}
+
+
+.section1 {
+    font-family: Arial, sans-serif;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    background-image: url('/MusicAZ-main/img/alan');
+    image-rendering: auto;
+    image-orientation: flip;
+    
+    
+}
+
+.music-player {
+    background-color: rgba(255, 255, 255, 0.8); /* Fundo semi-transparente */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.music-player-content {
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilize o player de áudio como desejar */
+#audio {
+    width: 100%;
+    max-width: 400px;
+    margin-top: 10px;
+}
+
+/* Estilize o título da música como desejar */
+#song-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+
+.header a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Estilos para as seções (boxes) à direita */
+.boxes {
+    margin-left: 250px; /* Largura do menu mais uma margem */
+    display: flex;
+    flex-wrap: wrap;
+    position: static;
+    margin-top: -800px;
+}
+
+.box {
+    width: 320px; /* 33.33% de largura com margem entre as caixas */
+    height: 180px;
+    background-color: #0b0111;
+    color: #fff;
+    text-align: center;
+    margin: 20px;
+}
+
+/* Estilos opcionais para destacar as bordas das seções */
+.box {
+    border: 2px solid #fff;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+
+.menu {
+    width: 180px;
+    height: 100vh;
+    background-color: #000;
+    color: #fff;
+    
+    padding: 20px;
+ 
+}
+
+.menu ul {
+    list-style: none;
+    padding: 0;
+    
+}
+
+.menu li {
+    margin-bottom: 10px;
+}
+
+.menu a {
+    background-color: #000; /* Cor de fundo padrão */
+    padding: 15px;
+    transition: background-color 0.3s ease;
+    font-size: 24px;
+    text-decoration: #4B0082;
+    font-weight: bold;
+}
+
+/* Estilo de hover para os links do menu */
+.menu a:hover {
+    background-color: #fff;
+}
+
+.footer{
+    color: #fff;
+}
+
+a{
+    color: #7108bd;
+    text-align: justify;
+}
