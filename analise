@@ -54,7 +54,7 @@ Login / Cadastro. Simples Feito. / Implementar
 
   generos.js
   Generos: Mostrar todos generos disponiveis (4 de 12 ou 16)
-  Rock ok, Pop ok, Hip-hop ok, Rap ok, Eletrônica ok, Reggae, Country, Jazz, Blues, Clássica, Trap, Samba, Funk, Metal, Folk e Indie.
+  Rock ok, Pop ok, Hip-hop ok, Rap ok, Eletrônica ok, Reggae ok, Jazz ok, Blues ok, Clássica OK, (Trap 2x) OK, Samba OK, Funk OK, Metal OK, Folk OK e Indie OK.
   
   Playlist.js
   Playslist
@@ -63,11 +63,15 @@ Login / Cadastro. Simples Feito. / Implementar
   Descoberta da Semana: Musicas novas e boas (organizar 4 de 12 musicas aparecer genero na tela de cada musica)
 
   podcast.js
-  Podcast:BAIXAR 24 podcast ao todo (4/8 principais podcast, 4/8 generos)
-  Flow, Podpah, ILTDA, PrimoCast
-  Mano a Mano, Joe Rogan, Nerd Cast, Pod Delas
-  Economia/Finanças, Diversão, Empreendedorismo, Entrevista
-  
+  Podcast:BAIXAR 12 podcast ao todo (4/8 principais podcast, 4 generos)
+  Flow OK, Podpah OK, ILTDA OK, PrimoCast OK.
+
+  Mano a Mano OK, Joe Rogan, Nerd Cast OK, Pod Delas OK.
+
+  Economia/Finanças OK, Diversão OK, Empreendedorismo OK, Entrevista OK.
+
+  54
+
   Perfil.js
   Perfil do usuário
 
