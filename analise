@@ -13,8 +13,9 @@ CRITÉRIOS PARA AVALIAÇÃO:
 4. Apresentação do projeto em laboratório;
 5. Não será estipulado um número mínino de páginas do site, porém será considerada a quantidade de trabalho envolvida;
 6. Código comentado apontando a exploração dos conceitos;
+
 7. É requerida documentação, correspondente ao projeto:
-   a. requisitos do projeto;
+   a. requisitos do projeto; OK
    b. diagramas UML;
    c. modelo entidade-relacionamento;
    d. mapa do site;
@@ -80,4 +81,6 @@ PLAYLIST E FAVORITO (JUNTO)
 EXPLORAR AVANÇADO
 
 
+audio1,2,3... descobertas, home, explore, genero, podcast
 
+<button class="add-to-playlist-button"> <img src="/img/sinal-de-adicao.png" width="10px" height="10px"></button>
