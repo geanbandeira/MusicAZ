@@ -17,7 +17,7 @@ CRITÉRIOS PARA AVALIAÇÃO:
 7. É requerida documentação, correspondente ao projeto:
    a. requisitos do projeto; OK
    b. diagramas UML; OK
-   c. modelo entidade-relacionamento;
+   c. modelo entidade-relacionamento; OK
    d. mapa do site; OK
    e. código do projeto e outros que se considerar necessário. OK
 Nota: Por se tratar de atividade cuja proposta da disciplina tem o teor mais acentuado na programação, e não no desenvolvimento de projeto de sistemas, será requerida a parte de documentação sem muitos detalhamento, no entanto, a documentação deverá caracterizar o código elaborado.
@@ -74,13 +74,15 @@ Baixar imagens de cada cantor / terminar explorar e trab
   Perfil.js
   Perfil do usuário
 
-PDF INICIAR
-INSERIR FAVORITOS E PLAYLIST
-GENEROS, DESCOBERTAS E PODCAST PARADO
-PLAYLIST E FAVORITO (JUNTO)
-EXPLORAR AVANÇADO
 
 
 audio1,2,3... descobertas, home, explore, genero, podcast
 
 <button class="add-to-playlist-button"> <img src="/img/sinal-de-adicao.png" width="10px" height="10px"></button>
+
+
+
+
+FAZER FAVORITOS
+FAZER BUSCAR MUSICAS
+DEIXAR IMAGENS DE TODOS 100% PARA TODAS AS TELAS
